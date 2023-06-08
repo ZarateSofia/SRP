@@ -10,7 +10,7 @@ package AplicandoSRP;
  */
 public class CalculadoraInteres {
     
-    public double CalculateIntereset(CuentaAhorros cuenta){
+    public double CalculateInteres(CuentaAhorros cuenta){
         //metodo para calculara interes
         return 0.0;
     }
